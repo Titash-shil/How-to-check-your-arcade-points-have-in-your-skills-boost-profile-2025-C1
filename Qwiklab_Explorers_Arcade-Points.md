@@ -29,13 +29,15 @@
 ---
 - ## Next Steps in Chat :
   - ### Wait a little bit, within someetime `A Support representative` will reply back!
-  - ### Representative will ask you about your Query!
+  - ### The Representative will ask you about your Query!
   - ### Again Ask Same Question that is :
   ```
   I want to know about how much arcade points i have now in my cloud skills boost profile
   ```
   - ### Then Send Your Cloud Skills Boost Public Profile Url to the Representative
-  - ### Then Representative ask you to wait sometime.
+  - ### Then The Representative ask you to wait sometime.
+---
+
    
    
 
