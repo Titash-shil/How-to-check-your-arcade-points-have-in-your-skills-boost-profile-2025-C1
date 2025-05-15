@@ -48,6 +48,10 @@
 ---
 ![Image](https://github.com/user-attachments/assets/bdf73b69-01cb-4330-a00c-14f264997a6c)
 ---
-
+![Image](https://github.com/user-attachments/assets/7cd84981-f3e7-4427-8124-7d54183b3d97)
+---
+- ### They will clearly tell that, about Facilitator Program Milestone Bonus points will be added & will get update on it before opening Prize counter
+- ### So manually, you count easily
+- ### As i mentioned, just add your Facilitator Achieved milestone's bonus points with your total arcade points have, whatever told by Qwiklabs team in chat support.
    
 
