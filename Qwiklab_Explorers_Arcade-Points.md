@@ -54,5 +54,11 @@
 - ### So manually, you count easily
 - ### As i mentioned, just add your Facilitator Achieved milestone's bonus points with your total arcade points have, whatever told by Qwiklabs team in chat support.
 - ### You can see about your Facilitator program milestone by the mail, which send by the `Google Cloud Edu Team` at every `Tuesday & Friday` from that mail you can track you Facilitator Program Milestone reaching status & based upon these, you can add those bonus points with the total arcade points you have, which will be told by the Qwiklabs Support Team.
-   
+---
 
+- ##  You can follow these steps to count your Arcade Points. Remember there are nothing official Points calculator are present, so don't use any unofficial external Points calculator.
+- ### Note that : Also For those didn't participate in Arcade Facilitator Program, their total points will be the Arcade points whatever will be told by support team as they wouldn't get any bonus points.
+
+---
+
+## Join to our community [Digital Dominators](https://linktr.ee/digital_dominators)
