@@ -13,5 +13,17 @@
 - ## Next Steps in Chat :
   - ### Select `User Query`
   - ### Select `Other`
-
+---
+![Image](https://github.com/user-attachments/assets/5a8dd597-7855-43a2-943c-fcfc7e32e441)
+---
+ - ## Next Steps in Chat :
+   - ### Write `Your Name`
+   - ### Write `Your Email Id`
+   - ### Write `Description of the issue` as :
+   ```
+   I want to know about how much arcade points i have now in my cloud skills boost profile.
+   ```
+   - ### Select the Program `Arcade`
+   ---
+   
 
