@@ -53,5 +53,6 @@
 - ### They will clearly tell that, about Facilitator Program Milestone Bonus points will be added & will get update on it before opening Prize counter
 - ### So manually, you count easily
 - ### As i mentioned, just add your Facilitator Achieved milestone's bonus points with your total arcade points have, whatever told by Qwiklabs team in chat support.
+- ### You can see about your Facilitator program milestone by the mail, which send by the `Google Cloud Edu Team` at every `Tuesday & Friday` from that mail you can track you Facilitator Program Milestone reaching status & based upon these, you can add those bonus points with the total arcade points you have, which will be told by the Qwiklabs Support Team.
    
 
