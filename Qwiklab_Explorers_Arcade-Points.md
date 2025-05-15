@@ -38,7 +38,7 @@
   - ### Then The Representative ask you to wait sometime.
   - ### After Sometime the Representative will reply with your `total Arcade points` have in your given Id.
 ---
-![Image](https://github.com/user-attachments/assets/c023c57f-1210-4b95-9ba5-5b72e29c7818)
+![Image](https://github.com/user-attachments/assets/dfb364c5-f853-4e17-a01f-899111d622b2)
 ---
 - ### But Keep mind that total Arcade points `wouldn't be included Facilitator Program Bonus Points` 
    
