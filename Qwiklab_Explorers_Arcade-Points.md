@@ -34,6 +34,9 @@
   ```
   I want to know about how much arcade points i have now in my cloud skills boost profile
   ```
+  - ### Then the Representative will ask you to give your GCSB Public Profile Url.
+  - ### How to Find GCSB Public Profile Url ?? Follow video steps to find out.
+  - ### Go to [Here](https://www.cloudskillsboost.google/my_account/profile)
   - ### Then Send Your Cloud Skills Boost Public Profile Url to the Representative
   - ### Then The Representative ask you to wait sometime.
   - ### After Sometime the Representative will reply with your `total Arcade points` have in your given Id.
