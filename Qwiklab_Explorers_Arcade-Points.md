@@ -46,7 +46,7 @@
 - ### But Keep mind that in total Arcade points there `wouldn't be included Facilitator Program Milestone Bonus Points`
 - ### They wouldn't say about Facilitator Milestone Bonus points, they will say about only normal arcade points
 - ### But you can add you achieved Milestone bonus points over your total Arcade points & that will your total arcade points
-- ### For Example, The Representative ask me, i have total 47 Arcade points, but i reached Ultimate Milestone by the Arcade Facilitator Milestone, so for Ultimate Milestone Bonus points is 25 Arcade points. So Now i have total 47+25=72 Arcade Points.
+- ### For Example, The Representative ask me, i have total 42 Arcade points, but i reached Ultimate Milestone by the Arcade Facilitator Milestone, so for Ultimate Milestone Bonus points is 25 Arcade points. So Now i have total 42+25=67 Arcade Points.
 - ### As well same process for other three Facilitator Program's User Milesones Bonus Points
 ---
 ![Image](https://github.com/user-attachments/assets/bdf73b69-01cb-4330-a00c-14f264997a6c)
